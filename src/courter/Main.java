@@ -22,13 +22,6 @@ public class Main {
     //others can put their edits here:
 
 
-
-    }
-
-
-
-    //bad commit for the stretch goal
-    public static void errorFunction() {
-        System.out.println(error);
+        
     }
 }
